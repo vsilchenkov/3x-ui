@@ -97,10 +97,15 @@ Choose an option:
 Так как эта технология относительно новая, ещё далеко не все клиенты поддерживают её. В этом списке клиенты, которые точно поддерживают этот транспорт.
 
 **Windows и Linux**:
+
+- [Invisible Man](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient)
 - [v2rayN](https://github.com/2dust/v2rayN)
 
 **Android**:
+
 - [v2rayNG](https://github.com/2dust/v2rayNG)
 
 **iOS & macOS arm64**:
+
+- [v2RayTun](https://apps.apple.com/ru/app/v2raytun/id6476628951)
 - [Streisand](https://apps.apple.com/app/streisand/id6450534064)
